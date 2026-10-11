@@ -53,10 +53,8 @@ StudyMate/
 ├── data/
 │   └── README.md
 ├── results/
-│   ├── evaluation_metrics.json
-│   └── training_evaluation_loss.png
-└── docs/
-    └── project_workflow.png
+    ├── sft_evaluation_report.json
+    └── loss_curves.png
 ```
 
 The structure above is a suggested layout. Include only files that exist in your repository and update notebook filenames to match your actual files.
