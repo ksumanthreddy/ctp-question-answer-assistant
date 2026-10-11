@@ -38,7 +38,8 @@ StudyMate is a domain-adapted language-model prototype for answering questions a
 | Mean ROUGE-L | 0.1777 |
 | Exact-match rate | 0.00 (0%) |
 
-Place the training/evaluation loss plot in `results/loss_curves.png` and the metrics JSON in `results/evaluation_metrics.json` if you want them to appear in the repository.
+![training/evaluation loss plot](results/loss_curves.png) 
+![metrics JSON](results/sft_evaluation_report.json)
 
 ## Repository Structure
 
