@@ -49,6 +49,7 @@ StudyMate/
 ├── requirements.txt
 ├── .gitignore
 ├── notebooks/
+|   ├── Inference.ipynb
 │   ├── DAPT_Training.ipynb
 |   |── DAPT_data_preparation.ipynb
 │   └── SFT_Training_Evaluation.ipynb
@@ -56,7 +57,13 @@ StudyMate/
     ├── sft_evaluation_report.json
     └── loss_curves.png
 ```
+## Try My Model
 
+Interested in trying my fine-tuned model? You can ask construction-related questions based on my course PDFs, and the model will generate answers using the information it learned during training.
+
+To try it, open the **`notebooks/Inference.ipynb`** notebook in this repository and follow the instructions to load the model and ask your own questions.
+
+**Note:** This is an experimental model, so generated answers may not always be accurate or complete.
 The above structure layout is our folder structure.
 
 ## Technologies
