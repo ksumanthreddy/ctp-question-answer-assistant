@@ -57,7 +57,7 @@ StudyMate/
     └── loss_curves.png
 ```
 
-The structure above is a suggested layout. Include only files that exist in your repository and update notebook filenames to match your actual files.
+The above structure layout is our folder structure.
 
 ## Technologies
 
