@@ -49,9 +49,8 @@ StudyMate/
 ├── .gitignore
 ├── notebooks/
 │   ├── DAPT_Training.ipynb
+|   |── DAPT_data_preparation.ipynb
 │   └── SFT_Training_Evaluation.ipynb
-├── data/
-│   └── README.md
 ├── results/
     ├── sft_evaluation_report.json
     └── loss_curves.png
